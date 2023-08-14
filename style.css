@@ -1,0 +1,17 @@
+/* Add styles for the testimonial slider */
+.wprt-testimonials {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    /* Adjust as needed */
+    margin: 0 auto;
+}
+
+.wprt-testimonial {
+    display: none;
+    padding: 20px;
+    border: 1px solid #f75023;
+    text-align: center;
+    background-color: #f9f9f9;
+}
